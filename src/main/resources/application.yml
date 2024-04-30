@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: bikerent
+  datasource:
+    url: jdbc:h2:mem:test
+  jpa:
+    show-sql: true
+
+
